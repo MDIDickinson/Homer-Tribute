@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: gray;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  h4 {
+    font-size: 25px;
+    color: #00008b
+  }
+  #img-caption {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  #tribute-info {
+    font-family: Helvetica;
+  }
+  #tribute-link {
+    font-size: 17px;
+  }
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+  #img-div {
+    display: inline-block;
+  }
